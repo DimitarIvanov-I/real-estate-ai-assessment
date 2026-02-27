@@ -1,0 +1,29 @@
+property_id,city,neighborhood,property_type,rooms,size_sqm,price_eur
+P001,Sofia,Nadezhda,Apartment,2,87,116638
+P003,Sofia,Oborishte,House,2,87,241922
+P004,Sofia,Oborishte,Penthouse,4,82,254378
+P005,Sofia,Krasno Selo,Penthouse,4,54,139733
+P006,Sofia,Krasno Selo,Apartment,3,94,216384
+P007,Sofia,Beli Brezi,House,2,60,154540
+P008,Sofia,Studentski Grad,House,3,137,291127
+P009,Sofia,Druzhba 2,House,4,114,198352
+P010,Sofia,Ivan Vazov,Apartment,3,65,193767
+P011,Sofia,Druzhba 2,Penthouse,2,117,185068
+P012,Sofia,Manastirski Livadi,Penthouse,2,129,279438
+P013,Sofia,Ivan Vazov,House,2,54,134700
+P014,Sofia,Druzhba 2,Studio,1,89,151859
+P015,Sofia,Oborishte,Studio,4,135,391036
+P016,Sofia,Geo Milev,Apartment,4,79,183894
+P017,Sofia,Mladost 1,Penthouse,2,108,204121
+P018,Sofia,Lozenets,Penthouse,1,105,325778
+P019,Sofia,Druzhba 2,Studio,2,59,105505
+P020,Sofia,Mladost 4,Apartment,1,71,146785
+P021,Sofia,Geo Milev,Apartment,1,46,106518
+P022,Sofia,Krasno Selo,House,1,120,289960
+P023,Sofia,Oborishte,Apartment,1,68,212698
+P024,Sofia,Mladost 1,Penthouse,3,117,215080
+P025,Sofia,Geo Milev,Penthouse,3,95,212105
+P027,Sofia,Manastirski Livadi,Studio,4,124,288038
+P028,Sofia,Beli Brezi,House,3,75,173215
+P029,Sofia,Nadezhda,Studio,3,105,168415
+P030,Sofia,Krasno Selo,Penthouse,3,139,395617

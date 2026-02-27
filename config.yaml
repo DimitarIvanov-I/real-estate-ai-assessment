@@ -1,0 +1,33 @@
+llm:
+  model: gpt-4o-mini
+
+auction:
+  num_properties: 5
+  starting_bid_pct: 0.75
+  min_increment_eur: 2000
+  max_rounds: 10
+
+agents:
+  - name: Agent A
+    budget_eur: 240000
+    strategy: aggressive
+    preferences: >
+      Primary: Center, Oborishte, Lozenets, Ivan Vazov.
+      Accepts 2-4 rooms if location/condition is strong.
+      Likes renovated, terrace, metro nearby.
+
+  - name: Agent B
+    budget_eur: 230000
+    strategy: conservative
+    preferences: >
+      Family buyer: prefers Mladost, Geo Milev, Druzhba but also accepts Center/Oborishte if safe.
+      Accepts 2-3 rooms.
+      Parking preferred. Avoids legal uncertainty but may proceed if discount is strong.
+
+  - name: Agent C
+    budget_eur: 260000
+    strategy: analytical
+    preferences: >
+      Investor: focuses on value and legal safety.
+      Act 16/clear title preferred. Act 15 acceptable only if price is clearly below value and risk is explained.
+      Accepts 1-4 rooms if value is strong.

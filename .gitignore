@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+
+# ML artifacts
+models/
+data/ml/
+
+# Chroma vector database
+chroma_db/
+src/data/chroma_db/
+
+# Logs
+logs/
+
+# Mac
+.DS_Store
